@@ -10,6 +10,7 @@ WINDOWS下：新增环境变量 JAVA_HOME：JDK的路径、Path中增加;%JAVA_H
 
 # 安装mysql
 https://dev.mysql.com
+WINDOWS下：新增环境变量 MYSQL_HOME:C:\Program Files\MySQL\MySQL Server 8.0  Path中增加;%MYSQL_HOME%\bin
 
 # 配置python环境（help -》 install new software）
 > PyDev - http://pydev.org/updates
