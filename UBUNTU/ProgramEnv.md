@@ -1,8 +1,15 @@
 # 安装git
 sudo apt-get install git
 
-# 安装eclipce
-> 下载安装包安装，apt-get的版本过老
+# 安装JDK,下载JAVA SE
+oracle.com
+WINDOWS下：新增环境变量 JAVA_HOME：JDK的路径、Path中增加;%JAVA_HOME%\bin、CLASSPATH：;.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+
+# 安装eclipse
+> 下载安装包安装，eclipse,JAVA EE
+
+# 安装mysql
+https://dev.mysql.com
 
 # 配置python环境（help -》 install new software）
 > PyDev - http://pydev.org/updates
